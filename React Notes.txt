@@ -1,0 +1,9 @@
+Step 1 :- install node, react
+step 2 :- In Terminal type npx create react app
+step 3 :- we use components like navbar, header, footer, etc
+		Create component folder at Src folder
+		Create a Navbar.js in component folder
+step 4 :- use the Navbar.js file in app.js 
+		at Navbar.js we use "react functional component" (rfc) which help 
+		import Navbar from ./component/Navbar.js
+		type <Navbar/> at function app
